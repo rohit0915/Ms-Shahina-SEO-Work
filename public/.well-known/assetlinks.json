@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ms.shahina",
+      "sha256_cert_fingerprints": [
+        "C9:82:30:FC:89:0A:5A:00:29:B9:C9:08:D2:79:17:86:CD:46:4E:B9:5E:ED:11:59:88:98:C3:68:EA:A0:2C:80"
+      ]
+    }
+  }
+]
